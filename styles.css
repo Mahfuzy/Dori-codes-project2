@@ -209,3 +209,10 @@ nav ul li a {
         align-items: center;
     }
 }
+
+
+@media (max-width:400px) {
+    .contents{
+        top: 80px;
+    }
+}
